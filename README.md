@@ -6,7 +6,7 @@ The project was developed incrementally to understand how trading systems proces
 
 ---
 
-## ✨ Features
+##  Features
 
 * Object-Oriented Order Management System
 * Buy/Sell Matching Engine
@@ -20,7 +20,7 @@ The project was developed incrementally to understand how trading systems proces
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * C++17
 * STL
@@ -34,7 +34,7 @@ The project was developed incrementally to understand how trading systems proces
 
 ---
 
-## 📂 Project Architecture
+##  Project Architecture
 
 The project is divided into multiple learning stages:
 
@@ -78,7 +78,7 @@ The project is divided into multiple learning stages:
 
 ---
 
-## ⚡ Benchmark Experiments
+##  Benchmark Experiments
 
 AtomMatch includes several educational benchmarking experiments related to:
 
@@ -91,7 +91,7 @@ These experiments were performed locally on consumer hardware for learning low-l
 
 ---
 
-## 🚀 How to Build
+##  How to Build
 
 Compile using g++:
 
@@ -107,7 +107,7 @@ g++ latency_server.cpp -o lserver -lws2_32
 
 ---
 
-## 📘 Learning Goals
+##  Learning Goals
 
 This project was built to explore:
 
@@ -120,7 +120,7 @@ This project was built to explore:
 
 ---
 
-## 🔥 Future Improvements
+##  Future Improvements
 
 * Lock-Free Ring Buffers
 * Multi-threaded Matching Engine
